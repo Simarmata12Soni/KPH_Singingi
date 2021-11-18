@@ -124,7 +124,7 @@ var updateSidebar = function(marker) {
           </tr>\
           <tr>\
             <th scope="row">Harga Adopsi</th>\
-            <td> Rp '+d.harga_adopsi+'</td>\
+            <td> '+d.harga_adopsi+'</td>\
           </tr>\
           <tr>\
             <th scope="row">Serapan Karbon</th>\
